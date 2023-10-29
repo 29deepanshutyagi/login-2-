@@ -1,4 +1,4 @@
-# TumorAi
+# MediCure
 **Early tumor detection is the key to surviving cancer and thriving after** <br>
 Submission for FHS 3rd Annual Hackathon.
 
